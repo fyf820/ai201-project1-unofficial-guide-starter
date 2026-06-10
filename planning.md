@@ -10,7 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-
+San Francisco restaurant recommendations. This konwledge valuable because it contains the wait time/difficulty of appointment, quality, and recommended food for each restaurant. The official channels only shows menus, location, and business hours. They rarely contains cumstomer experience and food quility.
 ---
 
 ## Documents
