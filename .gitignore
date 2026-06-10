@@ -16,5 +16,8 @@ env/
 chroma_db/
 chroma/
 
+# Generated cleaned-document output (regenerate with `python ingest.py`)
+documents_clean/
+
 # macOS
 .DS_Store

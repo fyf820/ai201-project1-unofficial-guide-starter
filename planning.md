@@ -75,8 +75,8 @@ As I am using free api key, I'll use bigger and heavier model for a accurate ans
 |---|----------|-----------------|
 | 1 |What do people say about the food quality and atmosphere at Zushi Puzzle|Reviews generally describe it as a high-quality sushi spot with fresh fish, creative rolls, and a modern but casual atmosphere; often praised for taste but sometimes noted as pricey.|
 | 2 |What does the Michelin guide say about the best restaurant in SF for a celebration meal?|The Michelin-rated restaurant name plus mention of celebration|
-| 3 |Which source mentions parking or transit challenges, and what does it say?|The restaurant name plus a short statement about parking/transit issues.|
-| 4 |What does the corpus recommend for someone who wants a good value group dinner|The restaurant name with supporting detail about affordability or group-friendly atmosphere.|
+| 3 |Which restaurant is facing parking or transit challenges?|The restaurant name plus a short statement about parking/transit issues.|
+| 4 |What restaurants would you recommend for a group dinner that offers good value for money?|The restaurant name with supporting detail about affordability or group-friendly atmosphere.|
 | 5 |Which San Francisco restaurant is recommended for a first-time visitor who wants classic local food|A specific restaurant plus a short reason|
 
 ---
