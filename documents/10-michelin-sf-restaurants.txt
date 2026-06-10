@@ -1,0 +1,49 @@
+Source: Michelin Guide — San Francisco Restaurants
+URL: https://guide.michelin.com/us/en/california/san-francisco/restaurants
+
+Extracted text:
+San Francisco and surroundings: 1-48 of 158 restaurants
+
+Open Quince — San Francisco, CA, USA $$$$ · Contemporary
+Open Atelier Crenn — San Francisco, CA, USA $$$$ · Contemporary
+Open Birdsong — San Francisco, CA, USA $$$$ · Contemporary
+Open Acquerello — San Francisco, CA, USA $$$$ · Italian
+Open Sons & Daughters — San Francisco, CA, USA $$$$ · Contemporary
+Open Californios — San Francisco, CA, USA $$$$ · Mexican
+Open Lazy Bear — San Francisco, CA, USA $$$$ · Contemporary
+Open Kiln — San Francisco, CA, USA $$$$ · Contemporary
+Open Nari — San Francisco, CA, USA $$$ · Thai
+Open Le Comptoir at Bar Crenn — San Francisco, CA, USA $$$$ · Contemporary
+Open 7 Adams — San Francisco, CA, USA $$$ · Californian
+Open Niku Steakhouse — San Francisco, CA, USA $$$$ · Japanese
+Open Ssal — San Francisco, CA, USA $$$$ · Korean
+Open State Bird Provisions — San Francisco, CA, USA $$$ · Californian
+Open San Ho Won — San Francisco, CA, USA $$$ · Korean
+Open The Progress — San Francisco, CA, USA $$$ · Californian
+Open Hilda and Jesse — San Francisco, CA, USA $$$ · American
+Open Nisei — San Francisco, CA, USA $$$$ · Japanese
+Open Okane — San Francisco, CA, USA $$$$ · Japanese
+Open Trestle — San Francisco, CA, USA $$ · Contemporary
+Open Z & Y — San Francisco, CA, USA $$ · Chinese
+Open Izakaya Rintaro — San Francisco, CA, USA $$ · Japanese
+Open A16 — San Francisco, CA, USA $$ · Pizza
+Open Yank Sing — San Francisco, CA, USA $$ · Chinese
+Open Bansang — San Francisco, CA, USA $$ · Korean
+Open Kitchen Istanbul — San Francisco, CA, USA $$ · Turkish
+Open Via Aurelia — San Francisco, CA, USA $$$ · Italian
+Open Maria Isabel — San Francisco, CA, USA $$$$ · Filipino
+Open Naides — San Francisco, CA, USA $$$$ · Filipino
+Open Wolfsbane — San Francisco, CA, USA $$$$ · Contemporary
+Open Dingles Public House — San Francisco, CA, USA $$$ · Gastropub
+Open Miller & Lux — San Francisco, CA, USA $$$ · Steakhouse
+Open Ernest — San Francisco, CA, USA $$$ · Steakhouse
+Open Routier — San Francisco, CA, USA $$$ · French
+Open jū-ni — San Francisco, CA, USA $$$$ · Japanese
+Open Omakase — San Francisco, CA, USA $$$$ · Japanese
+Open SPQR — San Francisco, CA, USA $$$ · Italian
+Open Rooh — San Francisco, CA, USA $$$ · Indian
+Open Prospect — San Francisco, CA, USA $$$ · Californian
+Open Flour + Water — San Francisco, CA, USA $$$ · Italian
+Open Zuni Café — San Francisco, CA, USA $$$ · Californian
+
+This page appears to be a listing of Michelin Guide restaurant entries. The scraped text includes a selection of restaurant listings and may require manual expansion for complete source coverage.
