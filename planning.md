@@ -124,3 +124,9 @@ I'll give Claude / Copilot my Retrieval Approach and requirements to let it empl
 
 **Milestone 5 — Generation and interface:**
 I'll ask Claude / Copilot to implement method that connect retrieval to LLM to generate grounded answers, and build a simple interface.
+
+## Hybrid Search
+Implement hybrid search a lexical search alongside the embedding search and merge results. The Q3 parking now surfaces the answer chunk semantic missed. Q1/Q4/Q5 was reordered within the same good sources.
+
+## Video Link
+https://drive.google.com/file/d/11q66Un5MVg4I3M3HKng6ALOcHPhU9wmg/view?usp=sharing
