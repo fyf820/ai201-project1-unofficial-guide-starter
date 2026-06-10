@@ -153,6 +153,7 @@ The chunking and retrieval approach is built very seamlessly and works well. It 
 
 **One way your implementation diverged from the spec, and why:**
 I changed 2 test questions in my Evaluation plan because they have a large distance. One of the question has more than 0.8 distance but lower to about 0.5 after I changed the question. Also, instead of asking restaurant, it just ask for the information in db, it is not a good question.
+
 ---
 
 ## AI Usage
